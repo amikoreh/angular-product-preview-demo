@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Product 1",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=33&txt=Product+1&w=300&h=200"
+    },
+    {
+        "productId": 2,
+        "productName": "Product 2",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=33&txt=Product+2&w=300&h=200"
+    },
+    {
+        "productId": 5,
+        "productName": "Product 5",
+        "productCode": "TBX-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=33&txt=Product+5&w=300&h=200"
+    },
+    {
+        "productId": 8,
+        "productName": "Product 8",
+        "productCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=33&txt=Product+8&w=300&h=200"
+    },
+    {
+        "productId": 10,
+        "productName": "Product 10",
+        "productCode": "GMG-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=33&txt=Product+10&w=300&h=200"
+    }
+]
